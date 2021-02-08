@@ -1,6 +1,6 @@
 # video_upload_test_app
 
-A new Flutter application.
+upload video to mySQL server
 
 ## Getting Started
 
